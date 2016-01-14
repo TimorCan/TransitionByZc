@@ -9,5 +9,8 @@
 #import "TestGit.h"
 
 @implementation TestGit
-//hahah
+-(void)hello
+{
+    NSLog(@"hello");
+}
 @end
