@@ -23,7 +23,7 @@
 		216B63FE1C43938300E38B4C /* SecViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 216B63FD1C43938300E38B4C /* SecViewController.m */; };
 		216B64011C43985500E38B4C /* JXTransitionToSecVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 216B64001C43985500E38B4C /* JXTransitionToSecVC.m */; };
 		21EB2EF41C47540400BB7B5D /* TestGit.m in Sources */ = {isa = PBXBuildFile; fileRef = 21EB2EF31C47540400BB7B5D /* TestGit.m */; };
-		C39DAC001C47765A00321215 /* 我叫你装逼.m in Sources */ = {isa = PBXBuildFile; fileRef = C39DABFF1C47765A00321215 /* 我叫你装逼.m */; };
+		C39DAC031C47795500321215 /* XYHWrong.m in Sources */ = {isa = PBXBuildFile; fileRef = C39DAC021C47795500321215 /* XYHWrong.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,8 +52,8 @@
 		216B64001C43985500E38B4C /* JXTransitionToSecVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JXTransitionToSecVC.m; sourceTree = "<group>"; };
 		21EB2EF21C47540400BB7B5D /* TestGit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestGit.h; sourceTree = "<group>"; };
 		21EB2EF31C47540400BB7B5D /* TestGit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestGit.m; sourceTree = "<group>"; };
-		C39DABFE1C47765A00321215 /* 我叫你装逼.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "我叫你装逼.h"; sourceTree = "<group>"; };
-		C39DABFF1C47765A00321215 /* 我叫你装逼.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "我叫你装逼.m"; sourceTree = "<group>"; };
+		C39DAC011C47795500321215 /* XYHWrong.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYHWrong.h; sourceTree = "<group>"; };
+		C39DAC021C47795500321215 /* XYHWrong.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYHWrong.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +113,8 @@
 				214E9D881C44902F00B17E4E /* JXTransitonSecToVC.m */,
 				216B63F91C4391F900E38B4C /* MyCell.h */,
 				216B63FA1C4391F900E38B4C /* MyCell.m */,
-				C39DABFE1C47765A00321215 /* 我叫你装逼.h */,
-				C39DABFF1C47765A00321215 /* 我叫你装逼.m */,
+				C39DAC011C47795500321215 /* XYHWrong.h */,
+				C39DAC021C47795500321215 /* XYHWrong.m */,
 				216B63E11C438BEE00E38B4C /* Main.storyboard */,
 				216B63E41C438BEE00E38B4C /* Assets.xcassets */,
 				216B63E61C438BEE00E38B4C /* LaunchScreen.storyboard */,
@@ -208,12 +208,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				21EB2EF41C47540400BB7B5D /* TestGit.m in Sources */,
+				C39DAC031C47795500321215 /* XYHWrong.m in Sources */,
 				216B63E01C438BEE00E38B4C /* ViewController.m in Sources */,
 				216B63FB1C4391F900E38B4C /* MyCell.m in Sources */,
 				216B63DD1C438BEE00E38B4C /* AppDelegate.m in Sources */,
 				214E9D891C44902F00B17E4E /* JXTransitonSecToVC.m in Sources */,
 				216B63FE1C43938300E38B4C /* SecViewController.m in Sources */,
-				C39DAC001C47765A00321215 /* 我叫你装逼.m in Sources */,
 				216B64011C43985500E38B4C /* JXTransitionToSecVC.m in Sources */,
 				216B63DA1C438BEE00E38B4C /* main.m in Sources */,
 			);
